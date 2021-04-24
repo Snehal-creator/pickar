@@ -92,12 +92,12 @@
 <a href="#home" class="scroll" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
 
 <!-- js -->
-<script type="text/javascript" src="{{asset('js/jquery-2.1.4.min.js')}}"></script>
+<script type="text/javascript" src="{{asset('assets/js/jquery-2.1.4.min.js')}}"></script>
 <!-- //js -->
-<script src="{{asset('js/modernizr.custom.js')}}"></script>
+<script src="{{asset('assets/js/modernizr.custom.js')}}"></script>
 	<!-- Custom-JavaScript-File-Links --> 
 	<!-- cart-js -->
-	<script src="{{asset('js/minicart.min.js')}}"></script>
+	<script src="{{asset('assets/js/minicart.min.js')}}"></script>
 <script>
 	// Mini Cart
 	paypal.minicart.render({
@@ -111,7 +111,7 @@
 
 	<!-- //cart-js --> 
 <!-- script for responsive tabs -->						
-<script src="{{asset('js/easy-responsive-tabs.js')}}"></script>
+<script src="{{asset('assets/js/easy-responsive-tabs.js')}}"></script>
 <script>
 	$(document).ready(function () {
 	$('#horizontalTab').easyResponsiveTabs({
@@ -136,15 +136,15 @@
 </script>
 <!-- //script for responsive tabs -->		
 <!-- stats -->
-	<script src="{{asset('js/jquery.waypoints.min.js')}}"></script>
-	<script src="{{asset('js/jquery.countup.js')}}"></script>
+	<script src="{{asset('assets/js/jquery.waypoints.min.js')}}"></script>
+	<script src="{{asset('assets/js/jquery.countup.js')}}"></script>
 	<script>
 		$('.counter').countUp();
 	</script>
 <!-- //stats -->
 <!-- start-smoth-scrolling -->
-<script type="text/javascript" src="{{asset('js/move-top.js')}}"></script>
-<script type="text/javascript" src="{{asset('js/jquery.easing.min.js')}}"></script>
+<script type="text/javascript" src="{{asset('assets/js/move-top.js')}}"></script>
+<script type="text/javascript" src="{{asset('assets/js/jquery.easing.min.js')}}"></script>
 <script type="text/javascript">
 	jQuery(document).ready(function($) {
 		$(".scroll").click(function(event){		
@@ -166,4 +166,4 @@
 
 
 <!-- for bootstrap working -->
-<script type="text/javascript" src="{{asset('js/bootstrap.js')}}"></script>
+<script type="text/javascript" src="{{asset('assets/js/bootstrap.js')}}"></script>

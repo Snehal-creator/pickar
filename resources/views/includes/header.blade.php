@@ -4,10 +4,10 @@
 
 <!--//tags -->
 
-<link href="{{ asset('css/bootstrap.css') }}" rel="stylesheet" type="text/css" media="all" />
-<link href="{{ asset('css/style.css') }}" rel="stylesheet" type="text/css" media="all" />
-<link href="{{ asset('css/font-awesome.css') }}" rel="stylesheet">
-<link href="{{ asset('css/easy-responsive-tabs.css') }}" rel='stylesheet' type='text/css' />
+<link href="{{ asset('assets/css/bootstrap.css') }}" rel="stylesheet" type="text/css" media="all" />
+<link href="{{ asset('assets/css/style.css') }}" rel="stylesheet" type="text/css" media="all" />
+<link href="{{ asset('assets/css/font-awesome.css') }}" rel="stylesheet">
+<link href="{{ asset('assets/css/easy-responsive-tabs.css') }}" rel='stylesheet' type='text/css' />
 
 
 <style>
@@ -99,7 +99,7 @@
         <!-- header-bot -->
         <div class="col-md-4 logo_agile">
             <h1><a href="index.php">
-                    <img src="images/logoNew4.png" />
+                    <img src="assets/images/logoNew4.png" />
 
                 </a></h1>
         </div>
