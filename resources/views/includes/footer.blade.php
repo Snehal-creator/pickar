@@ -5,7 +5,7 @@
 <div class="footer">
 	<div class="footer_agile_inner_info_w3l">
 		<div class="col-md-3 footer-left">
-			<h2><a href="index.html">	<img src="images/logo2.png"/> </a></h2>
+			<h2><a href="index.html">	<img src="assets/images/logo2.png"/> </a></h2>
 			<p>Our brand caters to a unique fusion of modern and traditional couture to suit every occasion. Our Sarees are artistic enough to light up your entire look, adding a sense of glam to your personality. Thanks to our  handcrafted wooden block prints. We believe in art, and our brand speaks for itself. 
 				Pick Kar before someone else picks!
 				</p>
