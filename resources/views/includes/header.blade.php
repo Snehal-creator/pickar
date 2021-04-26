@@ -148,7 +148,7 @@
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse menu--shylock" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav menu__list header-middle">
-                        <li class="menu__item"><a class="menu__link" href="{{ url('/') }}">Home<span class="sr-only"></span> </a></li>
+                        
                             <li class="menu__item"><a class="menu__link" href="{{ url('/') }}">Home<span class="sr-only"></span> </a></li>
                             <li class=" menu__item"><a class="menu__link" href="{{ url('about') }}">About</a></li>
 			<li class=" menu__item">
